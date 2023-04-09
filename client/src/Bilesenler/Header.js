@@ -12,7 +12,7 @@ const Headerr = () => {
         }}
       >
         {" "}
-        <Button className="btn btn-danger justify-content-center" href="/" style={{marginRight: "10px", textAlign: "center", verticalAlign: "middle"}}>
+        <Button className="btn btn-danger" href="/" style={{alignItems: "center", justifyContent: "center", marginRight: "10px", textAlign: "center"}}>
           Futbolcular Sayfası
         </Button>
         <Button
